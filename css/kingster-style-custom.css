@@ -4431,31 +4431,24 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #div_983a_50 {
     padding-bottom: 0px ;
 }
-@media screen and (min-device-width: 1260px)  { 
-    .logo-right-min{
-        display: none;
-    }
-    .logo-right{
+@media screen and (min-device-width: 1260px) and (max-device-width: 1639px) {
+    .logo-right-min,
+    .logo-left-min {
         display: block;
     }
-    .logo-left-min{
+    .logo-right,
+    .logo-left {
         display: none;
-    }
-    .logo-left{
-        display: block;
     }
 }
-@media screen and (min-device-width: 1640px)  { 
-    .logo-right-min{
-        display: block;
-    }
-    .logo-right{
+
+@media screen and (min-device-width: 1640px) {
+    .logo-right-min,
+    .logo-left-min {
         display: none;
     }
-    .logo-left-min{
+    .logo-right,
+    .logo-left {
         display: block;
-    }
-    .logo-left{
-        display: none;
     }
 }
