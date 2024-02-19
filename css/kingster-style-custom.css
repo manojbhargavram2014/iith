@@ -661,7 +661,7 @@ body.kingster-boxed .kingster-body-wrapper {
 }
 
 .kingster-container, .gdlr-core-container, body.kingster-boxed .kingster-body-wrapper, body.kingster-boxed .kingster-fixed-footer .kingster-footer-wrapper, body.kingster-boxed .kingster-fixed-footer .kingster-copyright-wrapper {
-    max-width: auto;
+    max-width: 1360px;
 }
 
 .kingster-body-front .gdlr-core-container, .kingster-body-front .kingster-container {
@@ -4430,6 +4430,28 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 
 #div_983a_50 {
     padding-bottom: 0px ;
+}
+
+
+
+.kingster-header-container-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-menu-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.kingster-main-menu {
+    width: fit-content;
+}
+
+.logo-left {
+    margin-right: auto;
 }
 @media screen and (min-device-width: 1260px) and (max-device-width: 1639px) {
     .logo-right-min,

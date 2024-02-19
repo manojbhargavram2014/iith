@@ -1,13 +1,11 @@
 <?php include "./header.php" ?>
-
-
             <div class="kingster-page-title-wrap  kingster-style-medium kingster-center-align">
                 <div class="kingster-header-transparent-substitute"></div>
                 <div class="kingster-page-title-overlay"></div>
                 <div class="kingster-page-title-container kingster-container">
                     <div class="kingster-page-title-content kingster-item-pdlr">
-                        <div class="kingster-page-caption">Mathematics Department</div>
-                        <h1 class="kingster-page-title">All NEWS & UPDATES</h1></div>
+                        <div class="kingster-page-caption">Department Of Mathematics</div>
+                        <h1 class="kingster-page-title">NEWS & EVENTS</h1></div>
                 </div>
             </div>
 
@@ -124,31 +122,11 @@
                                 <div id="text-7" class="widget widget_text kingster-widget">
                                     <h3 class="kingster-widget-title">About Page</h3><span class="clear"></span>
                                     <div class="textwidget">
-                                        <p>This page displays all type of events like Workshops,Seminars,Conferences and Meetings etc...</p>
+                                        <p>Stay informed and inspired with our News & Events updates! Explore the latest happenings, from groundbreaking research breakthroughs to exciting upcoming seminars and conferences. Dive into a world of mathematical discovery and stay connected with the vibrant academic pulse at IIT Hyderabad. Join us in celebrating achievements, sharing insights, and fostering a culture of intellectual curiosity and collaboration!</p>
                                     </div>
                                 </div>
-                                <!--<div id="gdlr-core-recent-portfolio-widget-2" class="widget widget_gdlr-core-recent-portfolio-widget kingster-widget">
-                                    <h3 class="kingster-widget-title">Our Works</h3><span class="clear"></span>
-                                    <div class="gdlr-core-recent-portfolio-widget-wrap clearfix">
-                                        <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                            <a href="#"><img src="upload/shutterstock_53600224-150x150.jpg" alt="" width="150" height="150" title="shutterstock_53600224" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                                        </div>
-                                        <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                            <a href="#"><img src="upload/rawpixel-577480-unsplash-1-150x150.jpg" alt="" width="150" height="150" title="rawpixel-577480-unsplash" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                                        </div>
-                                        <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                            <a href="#"><img src="upload/pexels-photo-150x150.jpg" alt="" width="150" height="150" title="pexels-photo" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                                        </div>
-                                        <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                            <a href="#"><img src="upload/training-train-lime-barbell-39688-150x150.jpg" alt="" width="150" height="150" title="training-train-lime-barbell-39688" /><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon gdlr-core-size-15 icon_link_alt"  ></i></span></a>
-                                        </div>
-                                    </div>
-                                </div>-->
-                                <div id="tag_cloud-2" class="widget widget_tag_cloud kingster-widget">
-                                    <h3 class="kingster-widget-title">Tag Cloud</h3><span class="clear"></span>
-                                    <div class="tagcloud"><a href="#" class="tag-cloud-link tag-link-7 tag-link-position-1" style="font-size: 12.2pt;" aria-label="Admission (2 items)">Admission</a> <a href="#" class="tag-cloud-link tag-link-5 tag-link-position-2" style="font-size: 8pt;" aria-label="Article (1 item)">Article</a> <a href="#" class="tag-cloud-link tag-link-14 tag-link-position-3" style="font-size: 12.2pt;" aria-label="Event (2 items)">Event</a> <a href="#" class="tag-cloud-link tag-link-103 tag-link-position-4" style="font-size: 8pt;" aria-label="Hot (1 item)">Hot</a> <a href="#" class="tag-cloud-link tag-link-10 tag-link-position-5" style="font-size: 12.2pt;" aria-label="News (2 items)">News</a> <a href="#" class="tag-cloud-link tag-link-12 tag-link-position-6" style="font-size: 22pt;" aria-label="Post Format (7 items)">Post Format</a> <a href="#" class="tag-cloud-link tag-link-6 tag-link-position-7" style="font-size: 15pt;" aria-label="Research (3 items)">Research</a> <a href="#" class="tag-cloud-link tag-link-9 tag-link-position-8" style="font-size: 8pt;" aria-label="Social (1 item)">Social</a> <a href="#" class="tag-cloud-link tag-link-13 tag-link-position-9" style="font-size: 8pt;" aria-label="Sport (1 item)">Sport</a> <a href="#" class="tag-cloud-link tag-link-8 tag-link-position-10" style="font-size: 12.2pt;" aria-label="Student (2 items)">Student</a> <a href="#" class="tag-cloud-link tag-link-11 tag-link-position-11" style="font-size: 12.2pt;" aria-label="Updates (2 items)">Updates</a></div>
-                                </div>
-                                <!--<div id="gdlr-core-recent-post-widget-2" class="widget widget_gdlr-core-recent-post-widget kingster-widget">
+                                
+                                <div id="gdlr-core-recent-post-widget-2" class="widget widget_gdlr-core-recent-post-widget kingster-widget">
                                     <h3 class="kingster-widget-title">Recent News</h3><span class="clear"></span>
                                     <div class="gdlr-core-recent-post-widget-wrap gdlr-core-style-2">
                                         <div class="gdlr-core-recent-post-widget clearfix">
@@ -170,133 +148,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>-->
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <!--<footer>
-                <div class="kingster-footer-wrapper ">
-                    <div class="kingster-footer-container kingster-container clearfix">
-                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                            <div id="text-2" class="widget widget_text kingster-widget">
-                                <div class="textwidget">
-                                    <p><img src="upload/footer-logo.png" alt="" />
-                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 5px ;"></span>
-                                        <br /> Box 35300
-                                        <br /> 1810 Campus Way NE
-                                        <br /> Bothell, WA 98011-8246</p>
-                                    <p><span style="font-size: 15px; color: #ffffff;">+1-2534-4456-345</span>
-                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: -20px ;"></span>
-                                        <br /> <a style="font-size: 15px; color: #ffffff;" href="mailto:admin@kingsteruni.edu">admin@kingsteruni.edu</a></p>
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
-                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 2px ;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                            <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                                <h3 class="kingster-widget-title">Our Campus</h3><span class="clear"></span>
-                                <div class="menu-our-campus-container">
-                                    <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                                        <li class="menu-item"><a href="#">Acedemic</a></li>
-                                        <li class="menu-item"><a href="#">Planning &#038; Administration</a></li>
-                                        <li class="menu-item"><a href="#">Campus Safety</a></li>
-                                        <li class="menu-item"><a href="#">Office of the Chancellor</a></li>
-                                        <li class="menu-item"><a href="#">Facility Services</a></li>
-                                        <li class="menu-item"><a href="#">Human Resources</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                                <h3 class="kingster-widget-title">Campus Life</h3><span class="clear"></span>
-                                <div class="menu-campus-life-container">
-                                    <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                                        <li class="menu-item"><a href="#">Accessibility</a></li>
-                                        <li class="menu-item"><a href="#">Financial Aid</a></li>
-                                        <li class="menu-item"><a href="#">Food Services</a></li>
-                                        <li class="menu-item"><a href="#">Housing</a></li>
-                                        <li class="menu-item"><a href="#">Information Technologies</a></li>
-                                        <li class="menu-item"><a href="#">Student Life</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
-                            <div id="gdlr-core-custom-menu-widget-4" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                                <h3 class="kingster-widget-title">Academics</h3><span class="clear"></span>
-                                <div class="menu-academics-container">
-                                    <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                                        <li class="menu-item"><a href="#">Canvas</a></li>
-                                        <li class="menu-item"><a href="#">Catalyst</a></li>
-                                        <li class="menu-item"><a href="#">Library</a></li>
-                                        <li class="menu-item"><a href="#">Time Schedule</a></li>
-                                        <li class="menu-item"><a href="#">Apply For Admissions</a></li>
-                                        <li class="menu-item"><a href="#">Pay My Tuition</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-				<div class="kingster-copyright-wrapper">
-					<div class="kingster-copyright-container kingster-container clearfix">
-						<div class="kingster-copyright-left kingster-item-pdlr">Copyright All Right Reserved 2019, Max Themes</div>
-						<div class="kingster-copyright-right kingster-item-pdlr">
-							<div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;">
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook">
-									<i class="fa fa-facebook" ></i>
-								</a>
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus">
-									<i class="fa fa-google-plus" ></i>
-								</a>
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin">
-									<i class="fa fa-linkedin" ></i>
-								</a>
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype">
-									<i class="fa fa-skype" ></i>
-								</a>
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter">
-									<i class="fa fa-twitter" ></i>
-								</a>
-								<a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram">
-									<i class="fa fa-instagram" ></i>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-            </footer>-->
-        </div>
-    </div>
-
-
-	<script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript'>
-        var gdlr_core_pbf = {
-            "admin": "",
-            "video": {
-                "width": "640",
-                "height": "360"
-            },
-            "ajax_url": "#"
-        };
-    </script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript'>
-        var kingster_script_core = {
-            "home_url": "index.php"
-        };
-    </script>
-    <script type='text/javascript' src='js/plugins.min.js'></script>
-</body>
-</html>
+            <?php include "./footer.php" ?>
