@@ -190,9 +190,9 @@
                                         </li>
                                         <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Research</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item" data-size="60"><a href="#">Areas of Research Interests</a></li>
-                                                <li class="menu-item" data-size="60"><a href="#">Publications</a></li>
-                                                <li class="menu-item" data-size="60"><a href="#">Funded Projects</a></li>
+                                                <li class="menu-item" data-size="60"><a href="area_of_research_interest.php">Areas of Research Interests</a></li>
+                                                <li class="menu-item" data-size="60"><a href="publications.php">Publications</a></li>
+                                                <li class="menu-item" data-size="60"><a href="funded_projects.php">Funded Projects</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">People</a>
