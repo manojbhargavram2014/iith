@@ -4467,10 +4467,10 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 @media screen and (min-device-width: 1640px) {
     .logo-right-min,
     .logo-left-min {
-        display: none;
+        display: block;
     }
     .logo-right,
     .logo-left {
-        display: block;
+        display: none;
     }
 }

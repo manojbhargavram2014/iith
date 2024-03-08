@@ -152,7 +152,7 @@
                                         </li>
                                         <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Academics</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">B.Tech MnC</a>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="btech.php" class="sf-with-ul-pre">B.Tech MnC</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="#">About Program</a></li>
                                                         <li class="menu-item"><a href="#">Brochure</a></li>
@@ -160,7 +160,7 @@
                                                         <li class="menu-item"><a href="#">FAQs</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">General UG</a>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="generalug.php" class="sf-with-ul-pre">General UG</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="#">About Program</a></li>
                                                         <li class="menu-item"><a href="#">Brochure</a></li>
@@ -168,7 +168,7 @@
                                                         <li class="menu-item"><a href="#">FAQs</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">M.Sc</a>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="msc.php" class="sf-with-ul-pre">M.Sc</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="#">About Program</a></li>
                                                         <li class="menu-item"><a href="#">Brochure</a></li>
@@ -176,7 +176,7 @@
                                                         <li class="menu-item"><a href="#">FAQs</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Ph.D</a>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="phd.php" class="sf-with-ul-pre">Ph.D</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="#">About Program</a></li>
                                                         <li class="menu-item"><a href="#">Brochure</a></li>
@@ -184,8 +184,7 @@
                                                         <li class="menu-item"><a href="#">FAQs</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item" data-size="60"><a href="#">Minors & Double Majors</a></li>
-                                                <li class="menu-item" data-size="60"><a href="course-list-2.php">Curriculum</a></li>
+                                                <li class="menu-item" data-size="60"><a href="minors.php">Minors & Double Majors</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Research</a>
