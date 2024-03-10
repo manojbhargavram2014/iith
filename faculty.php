@@ -28,6 +28,7 @@
       </div>
    </div>
 </div>
+
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
    <div class="gdlr-core-page-builder-body">
       <div class="gdlr-core-pbf-sidebar-wrapper ">
@@ -38,20 +39,21 @@
                      <div class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium">
                         <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                            <div class="gdlr-core-personnel-list clearfix">
-                              <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                 <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="400" height="400" title="personnel-1" /></a>
+                              <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 400px; height: 400px;">
+                                 <a href="#"><img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" alt="" style="width: 100%; height: 100%;" title="personnel-1" /></a>
                               </div>
                               <div class="gdlr-core-personnel-list-content-wrap">
                                  <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="detail_page.html">Dr. Ramesh G</a></h3>
                                  <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Professor & Head of the Department</div>
                                  <div class="gdlr-core-personnel-info">
+                                    <div class="kingster-personnel-info-list kingster-type-office"><i class="kingster-personnel-info-list-icon fa fa-building"></i>Office: C-515</div>
                                     <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>rameshg@math.iith.ac.in</div>
                                     <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>(040) 2301 - 6604</div>
-                                    <div class="kingster-personnel-info-list kingster-type-office"><i class="kingster-personnel-info-list-icon fa fa-building"></i>Office: C-515</div>
                                  </div>
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Functional Analysis, Operator Algebras</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -59,15 +61,19 @@
                   </div>
                </div>
             </div>
+
             <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-30 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 40px 0px 0px 0px;">
                <div class="gdlr-core-pbf-sidebar-content-inner" data-skin="Personnel">
                   <div class="gdlr-core-pbf-element">
                      <div class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium">
                         <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                            <div class="gdlr-core-personnel-list clearfix">
-                              <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                 <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
+                           <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                 <a href="#">
+                                    <img src="https://math.iith.ac.in/images/people/faculty/Aiyappan.jpg" alt="" title="personnel-1" />
+                                 </a>
                               </div>
+
                               <div class="gdlr-core-personnel-list-content-wrap">
                                  <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Dr. Aiyappan Srinivasan</a></h3>
                                  <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Assistant Professor</div>
@@ -79,6 +85,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: PDE and Homogenization</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -103,6 +110,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Algebraic geometry and commutative algebra</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -127,6 +135,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Fuzzy Logic Connectives, Approximate Reasoning</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -151,6 +160,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Operator theory</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -175,6 +185,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Arithmetic Geometry, Algebraic Number Theory</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -199,6 +210,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Number Theory, including Elementary, Classical Algebraic and Computational Topics</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -223,6 +235,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Reliability Theory, Stochastic Orders, Applied Statistics, Risk Theory</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -247,6 +260,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Wavelets, Computed Tomography, Sparsity seeking optimization techniques</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -271,6 +285,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Functional Analysis, Banach algebra, Numerical Linear algebra</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -295,6 +310,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Applied Mathematics, Fluid Dynamics, Vortex Dynamics, Applied Complex Analysis</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -319,6 +335,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Data mining for big data, Spatio-temporal modelling (Adaptive Gaussian Hermite Quadrature), Bayesian Statistics, Multivariate, skewed and volatile distributions AI/ML in finance and Precision Medicine, Statistics</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -333,7 +350,7 @@
                         <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                            <div class="gdlr-core-personnel-list clearfix">
                               <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                 <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
+                                 <a href="#"><img src="https://math.iith.ac.in/images/people/faculty/AmitSirImg.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
                               </div>
                               <div class="gdlr-core-personnel-list-content-wrap">
                                  <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Dr. Aiyappan Srinivasan</a></h3>
@@ -346,6 +363,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: PDE and Homogenization</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -356,7 +374,7 @@
                         <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                            <div class="gdlr-core-personnel-list clearfix">
                               <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                 <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
+                                 <a href="#"><img src="https://math.iith.ac.in/images/people/faculty/Dr.ArunabhaMajumdar.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
                               </div>
                               <div class="gdlr-core-personnel-list-content-wrap">
                                  <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Dr. Arunabha Majumdar</a></h3>
@@ -370,6 +388,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Statistical genetics, Biostatistics, Computational statistics</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -394,6 +413,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Partial Differential Equations, Variational Methods and Geometric Analysis</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -417,6 +437,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Differential Geometry</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -441,6 +462,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Algebraic Geometry and their applications to Error-correcting codes</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -465,6 +487,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Bio-Fluid Mechanics, Solute dispersion, Quantum Mechanics and Homotopy Analysis Method</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -489,6 +512,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Algebraic and Spectral Graph Theory, Matrix Theory, Combinatorics</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -513,6 +537,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Functional Analysis, Banach space theory, Geometry of Banach spaces</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -537,6 +562,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Harmonic Analysis, Functional Analysis</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>
@@ -561,6 +587,7 @@
                                  <div class="gdlr-core-personnel-list-content">
                                     <p>Area of Interest: Commutative Algebra</p>
                                  </div>
+                                 <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
                               </div>
                            </div>
                         </div>

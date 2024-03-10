@@ -4432,7 +4432,21 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
     padding-bottom: 0px ;
 }
 
+.gdlr-core-personnel-list-image {
+    width: 500px; /* Set the width of the frame */
+    height: 300px; /* Set the fixed height for all images */
+    position: relative; /* Position the container relative to its content */
+    overflow: hidden; /* Hide any overflow */
+}
 
+.gdlr-core-personnel-list-image img {
+    width: 100%; /* Make the image fill the container width */
+    height: 100%; /* Make the image fill the container height */
+    object-fit: cover; /* Cover the entire area, maintaining aspect ratio */
+    position: absolute; /* Position the image absolutely within the container */
+    top: 0; /* Align the image to the top of the container */
+    left: 0; /* Align the image to the left of the container */
+}
 
 .kingster-header-container-inner {
     display: flex;
