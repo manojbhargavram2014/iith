@@ -1,4 +1,4 @@
-<?php include "./header.php" ?>
+<?php include "header.php" ?>
             <div class="kingster-page-wrapper" id="kingster-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">

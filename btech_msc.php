@@ -46,7 +46,7 @@
                   <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 3px ;"></div>
                </div>
             </div>
-            <div class="container  mb-5">
+            <div class="  mb-5">
                <div class="row">
                   <div class="col-md-4">
                      <ul class="list-unstyled">
@@ -146,7 +146,7 @@
                   <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 3px ;"></div>
                </div>
             </div>
-            <div class="container">
+            <div class="">
                <div class="row">
                   <div class="col-md-4">
                      <ul class="list-unstyled">
@@ -303,7 +303,7 @@
             </div>
 
 
-            <div class="container">
+            <div class="">
     <div class="row">
         <div class="col-md-4">
             <ul class="list-unstyled">
@@ -455,7 +455,7 @@
                </div>
             </div>
 
-            <div class="container">
+            <div class="">
     <div class="row">
         <div class="col-md-4">
             <ul class="list-unstyled">

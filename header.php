@@ -94,8 +94,9 @@
                                         <li class="menu-item"><a href="faculty.php">Faculty</a></li>
                                         <li class="menu-item"><a href="staff.php">Staff</a></li>
                                         <li class="menu-item"><a href="btech_msc.php">B.Tech Students</a></li>
-                                        <li class="menu-item"><a href="course-list-2.php">M.Sc Students</a></li>
-                                        <li class="menu-item"><a href="course-list-2.php">Alumni</a></li>
+                                        <li class="menu-item"><a href="msc_stuents.php">M.Sc Students</a></li>
+                                        <li class="menu-item"><a href="postdoctoral.php">Post Doctoral</a></li>
+                                        <li class="menu-item"><a href="alumni.php">Alumni</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item"><a href="athletics.php">News & Events</a></li>
@@ -203,12 +204,27 @@
                                                 <li class="menu-item" data-size="60"><a href="faculty.php">Faculty</a></li>
                                                 <li class="menu-item" data-size="60"><a href="staff.php">Staff</a></li>
                                                 <li class="menu-item" data-size="60"><a href="btech_msc.php">B.Tech students</a></li>
-                                                <li class="menu-item" data-size="60"><a href="msc_students.php">M.Sc Students</a></li>
-                                                <li class="menu-item" data-size="60"><a href="#">Alumni</a></li>
+                                                <li class="menu-item"><a href="msc_stuents.php">M.Sc Students</a></li>
+                                                <li class="menu-item"><a href="doctoral.php">Doctoral</a></li>
+                                                <li class="menu-item"><a href="postdoctoral.php">Post Doctoral</a></li>
+                                                <li class="menu-item"><a href="alumni.php">Alumni</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item kingster-normal-menu"><a href="all_events.php">News & Events</a></li>
-                                        <li class="menu-item kingster-normal-menu"><a href="all_events.php">Achievements</a></li>
+                                        <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="news_and_events.php" class="sf-with-ul-pre">News & Events</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="seminars.php">Seminars</a></li>
+                                                <li class="menu-item"><a href="student_seminars.php">Student Seminars</a></li>
+                                                <li class="menu-item"><a href="events.php">Events</a></li>
+                                                <li class="menu-item"><a href="outreach_events.php">Outreach Events</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Achievements</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="placements.php">B.Tech Internships & Placements</a></li>
+                                                <li class="menu-item"><a href="higher_studies.php">M.Sc placements/Higher Studies</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item kingster-normal-menu"><a href="#">Achievements</a></li>
                                         <li class="menu-item kingster-normal-menu"><a href="#">Admissions</a></li>
                                         <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
                                     </ul>

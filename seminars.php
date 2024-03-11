@@ -5,7 +5,7 @@
                 <div class="kingster-page-title-container kingster-container">
                     <div class="kingster-page-title-content kingster-item-pdlr">
                         <div class="kingster-page-caption">Department Of Mathematics</div>
-                        <h1 class="kingster-page-title">All EVENTS</h1></div>
+                        <h1 class="kingster-page-title">Seminars</h1></div>
                 </div>
             </div>
 
@@ -122,10 +122,9 @@
                                 <div id="text-7" class="widget widget_text kingster-widget">
                                     <h3 class="kingster-widget-title">About Page</h3><span class="clear"></span>
                                     <div class="textwidget">
-                                        <p>Welcome to the Mathematics Department's events page at IIT Hyderabad! Here you'll find information about all upcoming events organized by our department. From seminars and workshops to conferences and special lectures, we offer a diverse range of academic and extracurricular activities for students, faculty, and researchers interested in mathematics. Stay tuned for updates on upcoming events and join us in our pursuit of knowledge and intellectual growth within the mathematical community at IIT Hyderabad!</p>
+                                        <p>Welcome to the Seminars Page hosted by the Mathematics Department at IIT Hyderabad! Here, you'll discover details about upcoming seminars organized by our department. From insightful talks to engaging discussions, our seminars cover a broad spectrum of topics in mathematics. Whether you're a student, faculty member, or researcher passionate about mathematics, our seminars provide a platform for learning and intellectual exchange. Stay updated with our latest seminar schedules and join us as we delve into the fascinating world of mathematics at IIT Hyderabad.</p>
                                     </div>
                                 </div>
-                                
                                 <div id="gdlr-core-recent-post-widget-2" class="widget widget_gdlr-core-recent-post-widget kingster-widget">
                                     <h3 class="kingster-widget-title">Recent News</h3><span class="clear"></span>
                                     <div class="gdlr-core-recent-post-widget-wrap gdlr-core-style-2">
