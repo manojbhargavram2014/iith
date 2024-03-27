@@ -204,7 +204,7 @@
                                                 <li class="menu-item" data-size="60"><a href="faculty.php">Faculty</a></li>
                                                 <li class="menu-item" data-size="60"><a href="staff.php">Staff</a></li>
                                                 <li class="menu-item" data-size="60"><a href="btech_msc.php">B.Tech students</a></li>
-                                                <li class="menu-item"><a href="msc_stuents.php">M.Sc Students</a></li>
+                                                <li class="menu-item"><a href="msc_students.php">M.Sc Students</a></li>
                                                 <li class="menu-item"><a href="doctoral.php">Doctoral</a></li>
                                                 <li class="menu-item"><a href="postdoctoral.php">Post Doctoral</a></li>
                                                 <li class="menu-item"><a href="alumni.php">Alumni</a></li>

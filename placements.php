@@ -63,40 +63,46 @@
                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;text-align:center;font-weight:700">
                                    <p>[Updated on 15th September 2022]</p>
                                </div>
-                                        <table style="min-width: 700px;font-size:14px;text-align:center;border: 1px solid #dddddd;">
-                                            <tbody  style="border: 1px solid #dddddd;">
-                                                <tr>
-                                                    <th>Year</th>
-                                                    <th>Students</th>
-                                                    <th>Registered for Placements</th>
-                                                    <th>Students Placed</th>
-                                                    <th>% Placed</th>
-                                                    <th>% Not Placed <br>/ Higher studies</th>
-                                                    <th>Median Salary <br>(CTC, LPA)</th>
-                                                    <th>Average Salary <br>(CTC, LPA)</th>
-                                                </tr>
-                                                <tr>
-                                                    <td>2021</td>
-                                                    <td>10</td>
-                                                    <td>9</td>
-                                                    <td>9</td>
-                                                    <td>100%</td>
-                                                    <td>-</td>
-                                                    <td>31.5</td>
-                                                    <td>32.27</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2022</td>
-                                                    <td>10</td>
-                                                    <td>10</td>
-                                                    <td>10</td>
-                                                    <td>100%</td>
-                                                    <td>-</td>
-                                                    <td>31</td>
-                                                    <td>30</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                               <div class="container">
+    <div class="table-responsive">
+        <table class="table" style="min-width: 700px; font-size: 14px; text-align: center; border: 1px solid #dddddd;">
+            <tbody style="border: 1px solid #dddddd;">
+                <tr>
+                    <th>Year</th>
+                    <th>Students</th>
+                    <th>Registered <br>for Placements</th>
+                    <th>Students<br> Placed</th>
+                    <th>% Placed</th>
+                    <th>% Not Placed <br>/ Higher studies</th>
+                    <th>Median Salary <br>(CTC, LPA)</th>
+                    <th>Average Salary <br>(CTC, LPA)</th>
+                </tr>
+                <tr>
+                    <td>2021</td>
+                    <td>10</td>
+                    <td>9</td>
+                    <td>9</td>
+                    <td>100%</td>
+                    <td>-</td>
+                    <td>31.5</td>
+                    <td>32.27</td>
+                </tr>
+                <tr>
+                    <td>2022</td>
+                    <td>10</td>
+                    <td>10</td>
+                    <td>10</td>
+                    <td>100%</td>
+                    <td>-</td>
+                    <td>31</td>
+                    <td>30</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
                                     </div>
                                 </div>
                             </div>

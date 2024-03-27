@@ -97,48 +97,75 @@
                         </div>
                      </div>
                   </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;">
-                        <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                           <div style="overflow-x: auto;">
-                              <table style="min-width: 600px;">
-                                 <tbody>
-                                    <tr>
-                                       <th>Year</th>
-                                       <th>Opening Ranks</th>
-                                       <th>Closing Ranks</th>
-                                    </tr>
-                                    <tr>
-                                       <td>2021</td>
-                                       <td>642</td>
-                                       <td>1075</td>
-                                    </tr>
-                                    <tr>
-                                       <td>2020</td>
-                                       <td>601</td>
-                                       <td>925</td>
-                                    </tr>
-                                    <tr>
-                                       <td>2019</td>
-                                       <td>661</td>
-                                       <td>694</td>
-                                    </tr>
-                                    <tr>
-                                       <td>2018</td>
-                                       <td>854</td>
-                                       <td>1089</td>
-                                    </tr>
-                                    <tr>
-                                       <td>2017</td>
-                                       <td>1458</td>
-                                       <td>1703</td>
-                                    </tr>
-                                 </tbody>
-                              </table>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+                  <style>
+    .table-responsive-fit {
+        display: table;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+    .table-responsive-fit table {
+        width: 100%;
+        font-size: 12px;
+    }
+    .table-responsive-fit th,
+    .table-responsive-fit td {
+        padding: 5px; /* Adjust the padding as needed */
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <div class="table-responsive-fit">
+                <table class="table table-bordered" style="border-collapse: collapse;">
+                    <thead>
+                        <tr>
+                            <th class="text-center" style="white-space: nowrap;">Year</th>
+                            <th class="text-center">Opening Ranks</th>
+                            <th class="text-center">Closing Ranks</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="text-center" style="white-space: nowrap;">2021</td>
+                            <td class="text-center">642</td>
+                            <td class="text-center">1075</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center" style="white-space: nowrap;">2020</td>
+                            <td class="text-center">601</td>
+                            <td class="text-center">925</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center" style="white-space: nowrap;">2019</td>
+                            <td class="text-center">661</td>
+                            <td class="text-center">694</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center" style="white-space: nowrap;">2018</td>
+                            <td class="text-center">854</td>
+                            <td class="text-center">1089</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center" style="white-space: nowrap;">2017</td>
+                            <td class="text-center">1458</td>
+                            <td class="text-center">1703</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+                  
                   <div class="gdlr-core-pbf-element">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
