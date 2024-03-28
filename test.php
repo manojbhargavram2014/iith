@@ -1,33 +1,22 @@
 <?php include "./header.php" ?>
-<div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/shutterstock_361397258.jpg) ;">
+<div class="kingster-page-title-wrap  kingster-style-medium kingster-center-align">
    <div class="kingster-header-transparent-substitute"></div>
    <div class="kingster-page-title-overlay"></div>
-   <div class="kingster-page-title-bottom-gradient"></div>
    <div class="kingster-page-title-container kingster-container">
-      <div class="kingster-page-title-content kingster-item-pdlr" style="padding-top: 390px ;padding-bottom: 55px ;">
-         <div class="kingster-page-caption" style="font-size: 21px ;font-weight: 400 ;letter-spacing: 0px ;">Bachelor Of Technology</div>
-         <h1 class="kingster-page-title" style="font-size: 48px ;font-weight: 700 ;text-transform: none ;letter-spacing: 0px ;">Mathematics and Computing</h1>
+      <div class="kingster-page-title-content kingster-item-pdlr">
+         <div class="kingster-page-caption">Department Of Mathematics</div>
+         <h1 class="kingster-page-title">Higher Studies </h1>
       </div>
    </div>
 </div>
 <div class="kingster-breadcrumbs">
    <div class="kingster-breadcrumbs-container kingster-container">
-      <div class="kingster-breadcrumbs-item kingster-item-pdlr">
-         <span property="itemListElement" typeof="ListItem">
-            <a property="item" typeof="WebPage" title="Go to Kingster." href="index.html" class="home"><span property="name">Home</span></a>
-            <meta property="position" content="1">
-         </span>
-         &gt;
-         <span property="itemListElement" typeof="ListItem">
-            <a property="item" typeof="WebPage" title="Go to Bachelor Of Science in Business Administration." href="index.html" class="post post-page"><span property="name">Bachelor Of Technology</span></a>
-            <meta property="position" content="2">
-         </span>
-         &gt;
-         <span property="itemListElement" typeof="ListItem">
-            <span property="name">Mathematics and Computing</span>
-            <meta property="position" content="3">
-         </span>
-      </div>
+       <div class="kingster-breadcrumbs-item kingster-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Kingster." href="index.html" class="home"><span property="name">Home</span></a>
+           <meta property="position" content="1">
+           </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Placements </span>
+           <meta property="position" content="2">
+           </span>
+       </div>
    </div>
 </div>
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
@@ -36,67 +25,62 @@
          <div class="gdlr-core-pbf-sidebar-container gdlr-core-line-height-0 clearfix gdlr-core-js gdlr-core-container">
             <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-40 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 30px 0px 30px 0px;">
                <div class="gdlr-core-pbf-sidebar-content-inner">
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-pbf-wrapper " style="margin: 0px auto 0px auto;padding: 0px 0px 0px 0px;max-width: 100% ;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #f2f2f2 ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeIn" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
-                           <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                              <div class="gdlr-core-pbf-column gdlr-core-column-100">
-                                 <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 60px 60px 60px 75px;" data-sync-height="quote-height" data-sync-height-center>
-                                    <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
-                                       <div class="gdlr-core-pbf-element">
-                                          <div class="gdlr-core-blockquote-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-large-size" style="padding-bottom: 0px ;">
-                                             <div class="gdlr-core-blockquote gdlr-core-info-font">
-                                                <div class="gdlr-core-blockquote-item-quote gdlr-core-quote-font gdlr-core-skin-icon" style="font-size: 170px ;">&#8220;</div>
-                                                <div class="gdlr-core-blockquote-item-content-wrap">
-                                                   <div class="gdlr-core-blockquote-item-content gdlr-core-skin-content" style="font-size: 21px ;font-weight: 600 ;letter-spacing: 0px ;">
-                                                      <p>The B.Tech. in Math. and Computing at IITH gives a unique opportunity to JEE entrants who want to pursue a career in mathematics. It also injects a strong mathematics component in the technological ecosystem of IITH.</p>
-                                                   </div>
-                                                   <div class="gdlr-core-blockquote-item-author gdlr-core-skin-caption" style="font-size: 18px ;font-weight: 600 ;">- Prof. U.B. Desai<span class="gdlr-core-blockquote-item-author-position" style="font-size: 18px ;font-weight: 600 ;">Founder Director, IIT Hyderabad</span></div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
+                  
+               <div class="gdlr-core-pbf-element mt-5">
+                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                <div class="gdlr-core-title-item-title-wrap clearfix">
+                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Placement data for B.Tech Mathematics and Computing</h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="gdlr-core-pbf-element">
+                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;">
+                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
+                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;text-align:center;font-weight:700">
+                                        <p>[Updated on 15th September 2022]</p>
                                     </div>
-                                 </div>
-                              </div>
+                               </div>
+                            </div>
+                        </div>
+                        
+                        <div class="gdlr-core-pbf-element mt-5">
+                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                <div class="gdlr-core-title-item-title-wrap clearfix">
+                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Recruiting Companies/Institutions</h3>
+                                </div>
+                            </div>
+                        </div>
+
+                       <div class="gdlr-core-pbf-element">
+                           <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                               <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
+                                   <p>BYJU’S, Jaikranti College, Staart Buidtech.</p>
+                               </div>
                            </div>
+                       </div>
+
+                       <div class="gdlr-core-pbf-element mt-5">
+                            <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
+                                <div class="gdlr-core-title-item-title-wrap clearfix">
+                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Placement data for B.Tech Mathematics and Computing</h3>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element" style="margin-top:40px">
-                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                           <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Mathematics and Computing</h3>
+
+                        <div class="gdlr-core-pbf-element">
+                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;">
+                                <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
+                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;text-align:center;font-weight:700">
+                                        <p>[Updated on 15th September 2022]</p>
+                                    </div>
+                               </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 10px ;">
-                        <div class="gdlr-core-text-box-item-content" style="font-size: 19px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">
-                           <p>The B.Tech Mathematics and Computing (M&C) program started in the academic year 2017-2018. The M&C curriculum is designed in a unique way to nurture future industry professionals and scientists. The blend of carefully selected theoretical, applicable, and computing courses will enable students to choose the career they wish to pursue.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 10px ;">
-                        <div class="gdlr-core-text-box-item-content" style="font-size: 19px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;">
-                           <p>Upon successfully completing the M&C program, students will be able to pursue the dream of becoming industry professionals. This program also provides an opportunity for higher education in mathematics, computer science, artificial intelligence, etc., in world-class universities.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align">
-                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 3px ;"></div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element" style="margin-top:40px">
-                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                           <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">JEE Advanced Opening & Closing Ranks</h3>
-                        </div>
-                     </div>
-                  </div>
+
+
+                  
+                  
                   <style>
     .table-responsive-fit {
         display: table;
@@ -110,51 +94,51 @@
     }
     .table-responsive-fit th,
     .table-responsive-fit td {
-        padding: 5px; /* Adjust the padding as needed */
+        padding: 5px;
+        font-size:8px;
     }
+    
 </style>
 
 <div class="container-fluid">
     <div class="row">
         <div class="col">
-            <div class="table-responsive-fit">
-                <table class="table table-bordered" style="border-collapse: collapse;">
-                    <thead>
-                        <tr>
-                            <th class="text-center" style="white-space: nowrap;">Year</th>
-                            <th class="text-center">Opening Ranks</th>
-                            <th class="text-center">Closing Ranks</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="text-center" style="white-space: nowrap;">2021</td>
-                            <td class="text-center">642</td>
-                            <td class="text-center">1075</td>
-                        </tr>
-                        <tr>
-                            <td class="text-center" style="white-space: nowrap;">2020</td>
-                            <td class="text-center">601</td>
-                            <td class="text-center">925</td>
-                        </tr>
-                        <tr>
-                            <td class="text-center" style="white-space: nowrap;">2019</td>
-                            <td class="text-center">661</td>
-                            <td class="text-center">694</td>
-                        </tr>
-                        <tr>
-                            <td class="text-center" style="white-space: nowrap;">2018</td>
-                            <td class="text-center">854</td>
-                            <td class="text-center">1089</td>
-                        </tr>
-                        <tr>
-                            <td class="text-center" style="white-space: nowrap;">2017</td>
-                            <td class="text-center">1458</td>
-                            <td class="text-center">1703</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+        <div class="table-responsive-fit">
+    <table class="table table-bordered" style="border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th class="text-center" style="white-space: nowrap;">Year</th>
+                <th class="text-center">Students</th>
+                <th class="text-center">Students placed</th>
+                <th class="text-center">GATE Qualified</th>
+                <th class="text-center">CSIR/<br>UGC JRF Qualified</th>
+                <th class="text-center">NET Qualified</th>
+                <th class="text-center">Total<br>(without repetition)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="text-center" style="white-space: nowrap;">2021</td>
+                <td class="text-center">18</td>
+                <td class="text-center">2</td>
+                <td class="text-center">7*</td>
+                <td class="text-center">4*</td>
+                <td class="text-center">1</td>
+                <td class="text-center">12</td>
+            </tr>
+            <tr>
+                <td class="text-center" style="white-space: nowrap;">2022</td>
+                <td class="text-center">18</td>
+                <td class="text-center">4</td>
+                <td class="text-center">-</td>
+                <td class="text-center">-</td>
+                <td class="text-center">-</td>
+                <td class="text-center">4</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
             
         </div>
     </div>
@@ -167,42 +151,64 @@
 
 
                   
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                           <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Brochure</h3>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
-                        <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                           <p>Wondering what is B.Tech (M&C) or why do B.Tech (M&C) at IIT Hyderabad? Click on the icon above or the link below to know all the details about the programme at a glance.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 55px ;"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" target="_blank" href="https://math.iith.ac.in/pdfs/MnCBrochure2022.pdf" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Download Brochure</span><i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px ;"  ></i></a></div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                           <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Curriculum</h3>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="gdlr-core-pbf-element">
-                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
-                        <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                           <p>The entire course curriculum for the programme along with the list of electives can be found under the following link.</p>
-                        </div>
-                     </div>
-                  </div>
+                  
+                  
                   <div class="gdlr-core-pbf-element">
                      <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;">
                         <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
-                           <div style="overflow-x: auto;">
+                           <div style="overflow-x: auto;" >
                               <table style="min-width: 600px;">
+                                 <tbody>
+                                    <tr>
+                                       <th>Ciriculum</th>
+                                       <th>Faculty Advisor</th>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2022</a></td>
+                                       <td>Dr. Narasimha Kumar</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2021</a></td>
+                                       <td>Dr. Venku Naidu</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2020</a></td>
+                                       <td>Dr. Neeraj Kumar</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2019</a></td>
+                                       <td>Dr. Sukumar D</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2018</a></td>
+                                       <td>Dr. Subrahmanya Sastry Challa</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">B.TECH 2017</a></td>
+                                       <td>Dr. Pradipto Banerjee</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">M.Sc 2022</a></td>
+                                       <td>Dr. Sameen Naqvi</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">M.Sc 2021</a></td>
+                                       <td>Dr. Amit Tripathi</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">M.Sc 2020</a></td>
+                                       <td>Prof. J. Balasubramaniam</td>
+                                    </tr>
+                                    <tr>
+                                       <td><a href="#" target="_blank">M.Sc 2019</a></td>
+                                       <td>Dr. Anantha Lakshmi Narayana P</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+
+                           <div style="overflow-x: auto;" class="table-responsive-fit">
+                           <table class="table table-bordered" style="border-collapse: collapse;">
                                  <tbody>
                                     <tr>
                                        <th>Ciriculum</th>
