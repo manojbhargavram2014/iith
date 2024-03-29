@@ -45,9 +45,9 @@
                <div class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium">
                   <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                      <div class="gdlr-core-personnel-list clearfix">
-                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                           <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
-                        </div>
+                     <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                         <div class="gdlr-core-personnel-list-content-wrap">
                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Mr. Srihari Dasaradhi</a></h3>
                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Assistant</div>
@@ -65,9 +65,9 @@
                <div class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium">
                   <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                      <div class="gdlr-core-personnel-list clearfix">
-                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                           <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
-                        </div>
+                     <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                         <div class="gdlr-core-personnel-list-content-wrap">
                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Mr. Maatla Vishal</a></h3>
                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Multi Skill Assistant Gr-I (General)</div>
@@ -97,9 +97,9 @@
                <div class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium">
                   <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                      <div class="gdlr-core-personnel-list clearfix">
-                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                           <a href="#"><img src="upload/personnel-1-500x500.jpg" alt="" width="500" height="500" title="personnel-1" /></a>
-                        </div>
+                     <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                         <div class="gdlr-core-personnel-list-content-wrap">
                            <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Mr. Anand V</a></h3>
                            <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Technical Superintendent</div>

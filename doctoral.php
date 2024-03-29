@@ -57,9 +57,9 @@
                             <div class="col-md-6">
                                     <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                         <div class="gdlr-core-personnel-list clearfix">
-                                            <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/personnel-2-500x500.jpg" alt="" width="500" height="500" title="personnel-2" /></a>
-                                            </div>
+                                            <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                 <h3 class="gdlr-core-personnel-list-title">Alok Kumar Sahoo</h3>
                                                 <div class="gdlr-core-personnel-list-content">
@@ -76,9 +76,9 @@
                             <div class="col-md-6">
                                 <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
-                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/personnel-2-500x500.jpg" alt="" width="500" height="500" title="personnel-2" /></a>
-                                        </div>
+                                        <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title">Alok Kumar Sahoo</h3>
                                             <div class="gdlr-core-personnel-list-content">
@@ -110,9 +110,9 @@
                             <div class="col-md-6">
                                     <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                         <div class="gdlr-core-personnel-list clearfix">
-                                            <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/personnel-2-500x500.jpg" alt="" width="500" height="500" title="personnel-2" /></a>
-                                            </div>
+                                            <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                                             <div class="gdlr-core-personnel-list-content-wrap">
                                                 <h3 class="gdlr-core-personnel-list-title">Alok Kumar Sahoo</h3>
                                                 <div class="gdlr-core-personnel-list-content">
@@ -129,9 +129,9 @@
                             <div class="col-md-6">
                                 <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
-                                        <div class="gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/personnel-2-500x500.jpg" alt="" width="500" height="500" title="personnel-2" /></a>
-                                        </div>
+                                        <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title">Alok Kumar Sahoo</h3>
                                             <div class="gdlr-core-personnel-list-content">

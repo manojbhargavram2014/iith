@@ -64,7 +64,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="gdlr-core-pbf-element" style="margin-top:40px">
+                  <div class="gdlr-core-pbf-element" style="margin-top:80px" id="about_program">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Mathematics and Computing</h3>
@@ -97,22 +97,7 @@
                         </div>
                      </div>
                   </div>
-                  <style>
-    .table-responsive-fit {
-        display: table;
-        width: 100%;
-        max-width: 100%;
-        overflow-x: auto;
-    }
-    .table-responsive-fit table {
-        width: 100%;
-        font-size: 12px;
-    }
-    .table-responsive-fit th,
-    .table-responsive-fit td {
-        padding: 5px; /* Adjust the padding as needed */
-    }
-</style>
+
 
 <div class="container-fluid">
     <div class="row">
@@ -159,15 +144,8 @@
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
-                  
-                  <div class="gdlr-core-pbf-element">
+ 
+                  <div class="gdlr-core-pbf-element pt-5" id="brouchre">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Brochure</h3>
@@ -184,7 +162,7 @@
                   <div class="gdlr-core-pbf-element">
                      <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 55px ;"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" target="_blank" href="https://math.iith.ac.in/pdfs/MnCBrochure2022.pdf" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Download Brochure</span><i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px ;"  ></i></a></div>
                   </div>
-                  <div class="gdlr-core-pbf-element">
+                  <div class="gdlr-core-pbf-element pt-3">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Curriculum</h3>
@@ -198,11 +176,11 @@
                         </div>
                      </div>
                   </div>
-                  <div class="gdlr-core-pbf-element">
+                  <div class="gdlr-core-pbf-element" id="cirriculum">
                      <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;">
                         <div class="gdlr-core-text-box-item-content" style="text-transform: none ;">
                            <div style="overflow-x: auto;">
-                              <table style="min-width: 600px;">
+                              <table class="table table-bordered" style="min-width: 600px;">
                                  <tbody>
                                     <tr>
                                        <th>Ciriculum</th>
@@ -254,10 +232,10 @@
                         </div>
                      </div>
                   </div>
-                  <div class="gdlr-core-pbf-column gdlr-core-column-60">
+                  <div class="gdlr-core-pbf-column gdlr-core-column-60" id="faq">
                      <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 10px 0px 0px;">
                         <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                           <div class="gdlr-core-pbf-element">
+                           <div class="gdlr-core-pbf-element pt-3">
                               <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px ;">
                                  <div class="gdlr-core-title-item-title-wrap clearfix">
                                     <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #1a1a1a ;">Frequently Asked Questions</h3>
@@ -343,10 +321,10 @@
                      <span class="clear"></span>
                      <div class="menu-finance-menu-container">
                         <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="index.html#curriculum">About Program</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="finance-faculty/index.html">Brochure</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="scholarships/index.html">Curriculum</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">FAQ's</a></li>
+                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#about_program">About Program</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#brouchre">Brochure</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a href="#cirriculum">Curriculum</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a href="#faq">FAQ's</a></li>
                         </ul>
                      </div>
                   </div>

@@ -32,7 +32,7 @@
             <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-40 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 30px 0px 30px 0px;">
                <div class="gdlr-core-pbf-sidebar-content-inner">
                   
-                  <div class="gdlr-core-pbf-element">
+                  <div class="gdlr-core-pbf-element" id="about_program">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Master of Sciences</h3>
@@ -63,7 +63,7 @@
                         <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #3db166 ;border-bottom-width: 3px ;"></div>
                      </div>
                   </div>
-                  <div class="gdlr-core-pbf-element">
+                  <div class="gdlr-core-pbf-element" id="brouchre">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Brochure</h3>
@@ -80,7 +80,7 @@
                   <div class="gdlr-core-pbf-element">
                      <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 55px ;"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" target="_blank" href="https://math.iith.ac.in/pdfs/MnCBrochure2022.pdf" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Download Brochure</span><i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px ;"  ></i></a></div>
                   </div>
-                  <div class="gdlr-core-pbf-element">
+                  <div class="gdlr-core-pbf-element" id="cirriculum">
                      <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                         <div class="gdlr-core-title-item-title-wrap clearfix">
                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">Curriculum</h3>
@@ -106,10 +106,9 @@
                      <span class="clear"></span>
                      <div class="menu-finance-menu-container">
                         <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="index.html#curriculum">About Program</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="finance-faculty/index.html">Brochure</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="scholarships/index.html">Curriculum</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">FAQ's</a></li>
+                           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5818"><a href="#about_program">About Program</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#brouchre">Brochure</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a href="#cirriculum">Curriculum</a></li>
                         </ul>
                      </div>
                   </div>

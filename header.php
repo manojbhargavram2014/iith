@@ -124,9 +124,9 @@
                                 <li class="menu-item kingster-normal-menu"><a href="https://moodle.math.iith.ac.in/">Moodle</a></li>
                                 <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
                                 <li class="menu-item kingster-normal-menu"><a href="#">Time table</a></li>
-                                <li class="menu-item kingster-normal-menu"><a href="#">Careers</a></li>
+                                <li class="menu-item kingster-normal-menu"><a href="credits.php">Credits</a></li>
                             </ul>
-                            <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="#" target="_blank">Contact Us</a></div>
+                            <div class="kingster-top-bar-right-social"></div><a class="kingster-top-bar-right-button" href="contact_us.php" target="_blank">Contact Us</a></div>
                     </div>
                 </div>
             </div>
@@ -159,34 +159,30 @@
                                             <ul class="sub-menu">
                                                 <li class="menu-item menu-item-has-children" data-size="60"><a href="btech.php" class="sf-with-ul-pre">B.Tech MnC</a>
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="#">About Program</a></li>
-                                                        <li class="menu-item"><a href="#">Brochure</a></li>
-                                                        <li class="menu-item"><a href="course-list-2.php">Curriculum</a></li>
-                                                        <li class="menu-item"><a href="#">FAQs</a></li>
+                                                        <li class="menu-item"><a href="btech.php#about_program">About Program</a></li>
+                                                        <li class="menu-item"><a href="btech.php#brouchre">Brochure</a></li>
+                                                        <li class="menu-item"><a href="btech.php#cirriculum">Curriculum</a></li>
+                                                        <li class="menu-item"><a href="btech.php#faq">FAQs</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item menu-item-has-children" data-size="60"><a href="generalug.php" class="sf-with-ul-pre">General UG</a>
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="#">About Program</a></li>
-                                                        <li class="menu-item"><a href="#">Brochure</a></li>
-                                                        <li class="menu-item"><a href="course-list-2.php">Curriculum</a></li>
-                                                        <li class="menu-item"><a href="#">FAQs</a></li>
+                                                        <li class="menu-item"><a href="generalug.php#about_program">About Program</a></li>
+                                                        <li class="menu-item"><a href="generalug.php#faq">FAQs</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item menu-item-has-children" data-size="60"><a href="msc.php" class="sf-with-ul-pre">M.Sc</a>
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="#">About Program</a></li>
-                                                        <li class="menu-item"><a href="#">Brochure</a></li>
-                                                        <li class="menu-item"><a href="course-list-2.php">Curriculum</a></li>
-                                                        <li class="menu-item"><a href="#">FAQs</a></li>
+                                                        <li class="menu-item"><a href="msc.php#about_program">About Program</a></li>
+                                                        <li class="menu-item"><a href="msc.php#brouchre">Brochure</a></li>
+                                                        <li class="menu-item"><a href="msc.php#cirriculum">Curriculum</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item menu-item-has-children" data-size="60"><a href="phd.php" class="sf-with-ul-pre">Ph.D</a>
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="#">About Program</a></li>
-                                                        <li class="menu-item"><a href="#">Brochure</a></li>
-                                                        <li class="menu-item"><a href="course-list-2.php">Curriculum</a></li>
-                                                        <li class="menu-item"><a href="#">FAQs</a></li>
+                                                        <li class="menu-item"><a href="phd.php#about_program">About Program</a></li>
+                                                        <li class="menu-item"><a href="phd.php#brouchre">Brochure</a></li>
+                                                        <li class="menu-item"><a href="phd.php#cirriculum">Curriculum</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item" data-size="60"><a href="minors.php">Minors & Double Majors</a></li>
@@ -224,8 +220,21 @@
                                                 <li class="menu-item"><a href="higher_studies.php">M.Sc placements/Higher Studies</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item kingster-normal-menu"><a href="#">Achievements</a></li>
-                                        <li class="menu-item kingster-normal-menu"><a href="#">Admissions</a></li>
+                                        <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Admissions</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="phd_admissions.php">Ph.D Admissions</a></li>
+                                                <li class="menu-item"><a href="summer_internships.php">Summer Internships</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="menu-item menu-item-has-children kingster-normal-menu"><a href="#" class="sf-with-ul-pre">Recruitments</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="faculty_recruitments.php">Faculty Recruitments</a></li>
+                                                <li class="menu-item"><a href="project_openings.php">Project Openings</a></li>
+                                            </ul>
+                                        </li>
+                                        
+                                        
                                         <li class="menu-item kingster-normal-menu"><a href="#">Calendar</a></li>
                                     </ul>
                                 </div>
