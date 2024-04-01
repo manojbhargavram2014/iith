@@ -93,6 +93,50 @@
                                              <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>aiyappan@math.iith.ac.in</div>
                                           </div>
                                           <div class="gdlr-core-personnel-list-content">
+                                             <p>Area of Interest: PDE and Homogenization PDE and Homogenization PDE and Homogenization PDE and Homogenization PDE and Homogenization PDE and Homogenization</p>
+                                          </div>
+                                          <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                                 <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                       <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
+                                       <div class="gdlr-core-personnel-list-content-wrap">
+                                          <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Dr. Aiyappan Srinivasan</a></h3>
+                                          <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Assistant Professor</div>
+                                          <div class="gdlr-core-personnel-info">
+                                             <div class="kingster-personnel-info-list kingster-type-office"><i class="kingster-personnel-info-list-icon fa fa-building"></i>Office: C-208/B</div>
+                                             <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>(040) 2301 - 6620</div>
+                                             <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>aiyappan@math.iith.ac.in</div>
+                                          </div>
+                                          <div class="gdlr-core-personnel-list-content">
+                                             <p>Area of Interest: PDE and Homogenization</p>
+                                          </div>
+                                          <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                                 <div class="gdlr-core-personnel-list-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-item-pdlr">
+                                    <div class="gdlr-core-personnel-list clearfix">
+                                       <div class="mb-3 gdlr-core-personnel-list-image gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover" style="width: 200px; height: 300px;">
+                                          <img src="https://math.iith.ac.in/images/people/faculty/RameshSirImg.jpg" class="img-fluid" alt="Responsive Image">
+                                       </div>
+                                       <div class="gdlr-core-personnel-list-content-wrap">
+                                          <h3 class="gdlr-core-personnel-list-title" style="font-size: 23px; font-weight: 700; letter-spacing: 0px; text-transform: none;"><a href="#">Dr. Aiyappan Srinivasan</a></h3>
+                                          <div class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 16px; font-weight: 500; font-style: normal; letter-spacing: 0px;">Assistant Professor</div>
+                                          <div class="gdlr-core-personnel-info">
+                                             <div class="kingster-personnel-info-list kingster-type-office"><i class="kingster-personnel-info-list-icon fa fa-building"></i>Office: C-208/B</div>
+                                             <div class="kingster-personnel-info-list kingster-type-phone"><i class="kingster-personnel-info-list-icon fa fa-phone"></i>(040) 2301 - 6620</div>
+                                             <div class="kingster-personnel-info-list kingster-type-email"><i class="kingster-personnel-info-list-icon fa fa-envelope-open"></i>aiyappan@math.iith.ac.in</div>
+                                          </div>
+                                          <div class="gdlr-core-personnel-list-content">
                                              <p>Area of Interest: PDE and Homogenization</p>
                                           </div>
                                           <a class="gdlr-core-personnel-list-button gdlr-core-button" href="#">View Website</a>
