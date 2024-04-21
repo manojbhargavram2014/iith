@@ -55,8 +55,7 @@
                      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                         <div class="gdlr-core-pbf-element">
                            <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                              <div class="gdlr-core-text-box-item-content" id="div_983a_7" style="text-align: justify;
-                                 text-justify: inter-word;">
+                              <div class="gdlr-core-text-box-item-content" id="div_983a_7" style="text-align: justify;text-justify: inter-word;">
                                  <p>Pursuant to our vision, the department aims to become a world class center for theoretical, applicable and interdisciplinary research. The faculty members of the department are engaged in an active and an equal basis collaboration with eminent researchers at three levels.</p>
                                  <p>                                                        At a very local level there are same-interest or complementary-interest research groups at the intra- and inter-departmental level. At a national and inter-national level, faculty members maintain an active collaboration with both eminent researchers and groups in their respective areas of research.</p>
                                  <p>                                                        To know more about the topics of research that our faculty members are currently interested in, please see the following links.
